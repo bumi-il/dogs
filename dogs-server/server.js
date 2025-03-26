@@ -10,4 +10,4 @@ app.use(cors());
 
 app.use("/api", api);
 
-app.listen(3000, () => console.log(""));
+app.listen(3000, () => console.log("running on http://localhost:3000"));
